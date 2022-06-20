@@ -1,0 +1,28 @@
+
+.bg-dark { background-color: #4632A8!important; }
+.bg-light { background-color: #eceaf6!important; }
+
+.btn-secondary {
+    color: #231954;
+    background-color: #eceaf6;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+    padding: 8rem;
+    background-color: #fff;
+}
+
+.card-deck {
+    max-width: 70rem;
+}
+
+.card img {
+    object-position: center;
+    object-fit: cover; /* maintain aspect ratio within container */
+    border-radius: 0.25rem 0.25rem 0 0;
+}
+
+h6 {
+    font-weight: 600;
+}
