@@ -7,12 +7,21 @@
     background-color: #fff;
 }
 
-.album {
-    background-color: #f8f9fa;
+.bg-light {
+    background-color: #eceaf6!important;
 }
 
 .btn-primary {
     color: #fff;
     background-color: #4632A8;
     border-color: #312375;
+}
+
+.btn-secondary {
+    color: #231954;
+    background-color: #eceaf6;
+}
+
+h6 {
+    font-weight: 600;
 }
