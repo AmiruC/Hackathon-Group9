@@ -1,3 +1,18 @@
 .bg-dark {
+    background-color: #4632A8!important;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+    background-color: #fff;
+}
+
+.album {
+    background-color: #f8f9fa;
+}
+
+.btn-primary {
+    color: #fff;
     background-color: #4632A8;
+    border-color: #312375;
 }
