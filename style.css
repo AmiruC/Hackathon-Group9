@@ -23,6 +23,26 @@
     border-radius: 0.25rem 0.25rem 0 0;
 }
 
+.btn {
+    margin: 0.5rem;
+}
+
+.card .btn {
+    margin: 0.5rem 0;
+}
+
 h6 {
     font-weight: 600;
+}
+
+.dropdown-menu {
+    position: inherit;
+    top: 0;
+    left: 0;
+    z-index: auto;
+    display: block;
+}
+
+textarea {
+    background-color: #fff2cc;
 }
